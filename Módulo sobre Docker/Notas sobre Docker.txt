@@ -1,0 +1,7 @@
+Esse módulo explica os fundamentos principais sobre Docker.
+
+É visto várias coisas sobre a aplicação, utilidade, tutorial de instalação, etc.
+
+Depois apresenta partes sobre Armazenamento de Dados, Processamento, etc.
+
+Depois tem um desafio de Projeto: Criando um Container de uma Aplicação WEB.
