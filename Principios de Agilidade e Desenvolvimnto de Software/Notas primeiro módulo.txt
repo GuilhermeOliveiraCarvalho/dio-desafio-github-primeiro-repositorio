@@ -1,0 +1,16 @@
+Nesse Módulo Introdutório é apresentado a idéia do Bootcamp e o que esperar de quem irá o estudar.
+
+É necessário muita dedicação e motivação, para focar nos estudos e procurar ter uma metodologia de aprendizado 
+ágil e eficaz.
+
+Foi mostrado sobre o Desenvolvimento de um Software, o processo, os requisitos e toda a mentalidade por trás.
+
+Foi visto também sobre equipes ágeis, e metódos ágeis para a melhor entrega do projeto para o cliente sempre visando a 
+qualidade do serviço.
+
+Na parte de lógica de programação, foi mostrado a importância da capacidade de resolver problemas como um programador,
+e foi mostrado formas práticas para resolver problemas usando a lógica de programação.
+
+Depois foi mostrado um breve resumo sobre a programação em si, como variáveis, laços de repetição, funções, etc.
+
+Por último, falando sobre o Git/Github, foi dado um desafio, para criar o primeiro repositório no Github.
