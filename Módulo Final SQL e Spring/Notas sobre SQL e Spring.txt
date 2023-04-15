@@ -1,0 +1,9 @@
+Nesses últimos dois módulos é visto sobre o SQL e suas funções e como o utilizar.
+
+É visto sobre sua importancia, e tipos de projetos práticos para se usar com mySQL
+
+Foi ensinado sobre o Spring framework para Java e Kotlin, bem como suas utilidades e projetos práticos.
+
+E por último há um desafio de código usando  tanto Java como Kotlin.
+
+E assim termina o Bootcamp da Dio TQI Java/Kotlin.
