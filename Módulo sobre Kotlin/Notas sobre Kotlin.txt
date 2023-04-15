@@ -1,0 +1,9 @@
+Nos dois Módulos sobre Kotlin, é mostrado dês do básico sobre Kotlin até partes intermediárias
+junto com algumas aplicações práticas.
+
+São mostradas boas aplicações do Kotlin sobre o desenvolvimento mobile e como o Kotlin herdou algumas caracteristicas 
+do próprio Java.
+
+São ensinados sobre as IDE para a digitação do código, e também algumas funcionalidades sobre cada uma.
+
+Depois há um Desafio de Projeto com Kotlin e depois há vários desafios de código usando Kotlin.

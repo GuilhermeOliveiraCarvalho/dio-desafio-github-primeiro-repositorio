@@ -1,0 +1,8 @@
+Nos dois Módulos sobre Java, é mostrado dês do básico sobre Java até partes intermediárias
+junto com algumas aplicações práticas.
+
+São ensinados sobre as IDE para a digitação do código, e também algumas funcionalidades sobre cada uma.
+
+São mostrados algumas aplicações práticas sobre o Java e de como ele se assemelha ao Kotlin.
+
+Depois há um Projeto com Java e depois há vários desafios de código usando Java.
